@@ -4,7 +4,7 @@ Yapmış olduğum Smart Agriculture App. web uygulamasının aşamalar halinde P
 
 Hem Html-Css kodlarını yazmak ve düzenlemek için hem php için Visual Code kullandım.
 
-Gerekli olup olmadığını bilmediğim "config.php" ve "database.php" fileları ile veritabanının bağlantısını oluşturdum. İçinde gerekli kütüphanelerin olduğunu düşündüğüm için internetten hazır şekilde projeme ekledim.
+Gerekli olup olmadığını bilmediğim **"config.php"** ve **"database.php"** fileları ile veritabanının bağlantısını oluşturdum. İçinde gerekli kütüphanelerin olduğunu düşündüğüm için internetten hazır şekilde projeme ekledim.
 
 "loginpage.php" ---> Kullanıcı giriş sayfası. Email ve password oluşturulup veritabanına kaydedilir.
 "login.php" ---> Kayıtlı kullanıcı giriş sayfası.
