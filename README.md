@@ -3,6 +3,7 @@
 Yapmış olduğum Smart Agriculture App. web uygulamasının aşamalar halinde PHP dosyalarının kısaca açıklaması..
 
 Hem Html-Css kodlarını yazmak ve düzenlemek için hem php için Visual Code kullandım.
+![Image](https://github.com/Melikachu/Smart-Aggriculture-App./blob/main/png/png.png)
 
 Gerekli olup olmadığını bilmediğim **[config.php](https://github.com/Melikachu/Smart-Aggriculture-App./blob/main/config.php)** ve **[database.php](https://github.com/Melikachu/Smart-Aggriculture-App./blob/main/database.php)** fileları ile veritabanının bağlantısını oluşturdum. İçinde gerekli kütüphanelerin olduğunu düşündüğüm için internetten hazır şekilde projeme ekledim.
 
@@ -21,3 +22,12 @@ Gerekli olup olmadığını bilmediğim **[config.php](https://github.com/Melika
 Aynı şekilde ışık şiddeti kullanıcı tarafından belirlenebilir. Belirlenen ışık şiddetine göre; bitkinin ihtiyacına uygun olarak ledlerin sağladığı ışık ayarlanır ve uygulamada bulunan buton ile ledi aç veya kapat komutlarını uygulamamız yerine getirir.
 
 Proje baştan sona donanım ve yazılım kısımlarında sistematik olarak çalışılmıştır. Donanımda kullanılan 'NodeMCU' ve wifi modulü ile sensörlerin doğrudan veritabanıyla bağlantı kurması sağlanmıştır. 
+
+HTML ve CSS kodlarını [buradan](https://github.com/Melikachu/Smart-Aggriculture-App./tree/main/HTML) inceleyebilirsiniz.
+
+![Image](https://github.com/Melikachu/Smart-Aggriculture-App./blob/main/png/png5.png)
+![Image](https://github.com/Melikachu/Smart-Aggriculture-App./blob/main/png/png2.png)
+![Image](https://github.com/Melikachu/Smart-Aggriculture-App./blob/main/png/png3.png)
+![Image](https://github.com/Melikachu/Smart-Aggriculture-App./blob/main/png/png4.png)
+
+
