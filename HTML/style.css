@@ -1,0 +1,211 @@
+
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+    margin:0;
+        
+}
+#Menu{
+    height: 80px;
+    padding: 0 20px;
+    background-color: #D1FAD1;
+}
+#logo{
+    font-size: 30px;
+    line-height: 80px;
+    float: left;
+    color: #709870;
+}
+nav{
+    float: right;
+    line-height: 80px;
+}
+nav a:link{
+    text-decoration: none;
+    font-size: 25px;
+    margin-right: 25px;
+    color: #709870;
+}
+nav a:hover{
+    border-bottom: #709870 2px solid;
+}
+nav a:visited{
+    text-decoration: none;
+    margin-right: 25px;
+    color: #709870;
+}
+#home{
+    height: 600px;
+    background-image: url("../foto.jpeg");
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+}
+#black{
+    height: 600px;
+    background-color: black;
+    opacity: 0.37;
+}
+#icerik{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-60%,-30%);
+    color: white;
+    font-size: 20px;
+}
+#about{
+    padding: 50px;
+    text-align: center;
+    font-weight: 600;
+}
+h3{
+    font-size: 40px;
+    font-weight: 700;
+}
+#container{
+    margin-top: 20px;
+    width: 1200px;
+    height: 400px;
+    margin: auto;
+    padding: 20px ;
+    border-bottom:1px solid #495057;
+}
+#left{
+    float: left;
+    border-right: 3px solid black;
+    font-size: 30px;
+    width: 300px;
+}
+#h5left{
+    text-transform: capitalize;
+    line-height: 1.6;
+    font-size: 25px;
+    font-weight: 600;
+}
+#h5left, #right{
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
+span{
+    font-size: 50px;
+    margin-right: 7px;
+    line-height: 42px;
+    font-weight: 600;
+    float: left;
+}
+#right{
+    float: right;
+    width: 850px;
+    text-align: left;
+    letter-spacing: 1px;
+    font-size: 15px;
+    line-height: 1.8;
+    font-weight: 100;
+}
+
+#graphs{
+    padding: 50px;
+    height: 1750px;
+    
+    text-align: center;
+    border-bottom:1px solid #495057;
+}
+#gauges{
+    font-size: 40px;
+    color: gray;
+    margin-left: 155px;
+}
+#buttons{
+    display:flex;
+    font-size: 25px;
+    color: gray;
+    letter-spacing: 1px;
+    float:left; 
+    margin-left: 355px;  
+}
+
+.page-wrapper{
+    margin-top: 90px;
+    position: bottom;
+    margin-bottom: 5px;
+    height: 900px;
+}
+#contact{
+    padding: 50px;
+    height: auto;
+    text-align: center;
+}
+#formbackground{
+    margin-bottom: 50px;
+    padding: 30px;
+    height: 550px;
+    background: rgb(209, 250, 209);
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#form{
+    text-align: left;
+}
+#leftform{
+    width: 50%;
+    float: left;
+    padding-right: 5px;
+}
+#rightform{
+    width: 50%;
+    float: right;
+    padding-left: 5px;
+}
+.formcontrol{
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #495057;
+    margin: 10px;
+    border: 1px solid #ced4da ;
+}
+textarea{
+    font-family: Arial, Helvetica, sans-serif;
+}
+input[type="submit"]{
+    cursor: pointer;
+    background-color:#709870 ;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px 30px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#h2slider{
+    margin-left: 350px;
+}
+.slidecontainer{
+    display:inline-flex;
+}
+.wrap {
+    height: 350px;
+    width:900px;
+    margin-right: 600px;
+    text-align:left;
+    color:#36382d;
+    margin-left: 170px;
+}
+.table {
+  
+  width:100%;
+  margin-top:20px;  
+}
+
+
